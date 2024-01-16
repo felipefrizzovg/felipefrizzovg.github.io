@@ -50,6 +50,10 @@
   color: #525252;
 }
 
+.empresa-texto .repo-link {
+  text-decoration: none;
+}
+
 .empresa-habilidades {
   display: flex;
   flex-wrap: wrap;
