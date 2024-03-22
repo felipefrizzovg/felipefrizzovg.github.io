@@ -52,6 +52,16 @@
 
 .empresa-texto .repo-link {
   text-decoration: none;
+  padding: .5rem;
+  background-color: #fff;
+  border-radius: 4px;
+  color: #141414;
+  transition: background .5s linear;
+}
+
+.empresa-texto .repo-link:hover {
+  background: #df3f3f;
+  color: #fff;
 }
 
 .empresa-habilidades {
