@@ -1,0 +1,32 @@
+#projetos {
+  background-color: #dadada;
+  .subtitulo {
+    color: #8f8f8f;
+  }
+
+  .empresa {
+    background-color: #cecece;
+  }
+
+  .empresa-texto {
+    color: #141414;
+    .repo-link {
+      background: #f0f0f0;
+
+      &:hover {
+        background: #df3f3f;
+      }
+    }
+  }
+
+  .empresa-habilidades {
+    li {
+      background-color: #f0f0f0;
+    }
+  }
+
+  .empresa-ano {
+    color: #262626;
+  }
+}
+
